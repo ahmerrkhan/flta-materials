@@ -1,5 +1,5 @@
 class Recipe {
-  String label;s
+  String label;
   String imageUrl;
 
   int servings;
