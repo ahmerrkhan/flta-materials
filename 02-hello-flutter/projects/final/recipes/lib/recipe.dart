@@ -1,4 +1,4 @@
-class Recipe {sss
+class Recipe {
   String label;
   String imageUrl;
 
